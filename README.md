@@ -15,8 +15,8 @@ This project is an **End-to-End Deep Learning pipeline** for classifying fruit i
 ## 🚀 Demo
 
 🔗 Link to Working Demo: [ .. ](..)  
-📽️ [Watch the 7-minute presentation video](..)  
-🗂️ Google Drive folder: [Project files + report + video](...)
+📽️ [Watch the 7-minute presentation video]([https://drive.google.com/drive/folders/1s9fkIYZj_RRxmgotT-R667ffyn8W2lHQ?usp=drive_link])  
+🗂️ Google Drive folder: [Project files + report + video](https://drive.google.com/drive/folders/1s9fkIYZj_RRxmgotT-R667ffyn8W2lHQ?usp=drive_link)
 
 ---
 
@@ -81,5 +81,5 @@ streamlit run app.py
 
 ## 👩‍💻 Author
 
-- Nadia
-- Brahim
+- Nadia kandoul
+- Brahim assabir
